@@ -1,0 +1,102 @@
+
+#imgdigital{
+    width: 20px;
+}
+#imguser{
+    width: 20px;
+}
+#imgdesign{
+    width: 20px;
+}
+
+
+#navbar{
+/* 
+    border:1px  solid red; */
+    padding: 5px;
+    margin: 3px
+
+}
+#skill{
+    font-family: 'Dancing Script', cursive;
+    color: red;
+    font-size: 2rem;
+}
+#button{
+    border: 5px solid red;
+    background-color: red  ;
+    color: whitesmoke;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 5px;
+    position: relative;
+    right: -850px;
+    text-align: center;
+
+}
+#navbar1{
+    position: relative;
+    right: -550px;
+    font-size: larger;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#navbar2{
+    position: relative;
+    right: -600px;
+    font-size: larger;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#navbar3{
+    position: relative;
+    right: -650px;
+    font-size: larger;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#navbar4{
+    position: relative;
+    right: -700px;
+    font-size: larger;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#mid{
+    text-align: center;
+    background-size: 50%;
+    /* border: 3px solid red; */
+    margin: 55px;
+    padding: 150px;
+}
+#page{
+    /* border: 1px solid red; */
+    background-image: url(img/laptop-computer-with-blank-white-screen-table-mock-up_37714-1988.webp);
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#online{
+    opacity: 1;
+}
+#footer{
+    /* border: 1px solid red; */
+    text-align: center;
+    background-color: white;
+    /* opacity: 0.5; */
+    width:80%;
+    position: relative;
+    right: -200px;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 3px;
+}
+#online{
+
+    position: relative;
+    left: -200px;
+    font-weight: bolder;
+
+}
+#coding{
+font-size: large;
+}
+#imgcoding{
+    width: 2px;
+}
+    
